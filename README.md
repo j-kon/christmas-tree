@@ -1,3 +1,3 @@
 # christmas-tree
 flutter Christmas tree
-![preview (1)](https://user-images.githubusercontent.com/48721096/71137132-1d0a5f80-2218-11ea-9086-a241341baf72.png)
+![preview (1)](https://github.com/j-kon/christmas-tree/blob/master/Peek%20Christmas%20tree.gif)
